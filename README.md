@@ -11,7 +11,8 @@
 ## Connect With Me; ##   
 [Link to C3lt1c Viking's GitHub Account](https://github.com/C3lt1c-Viking)  
 [Link to C3lt1c Viking's Twitter Account](https://twitter.com/C3lt1c-Viking)  
-![My Twitter Followers](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FC3lt1cViking)  
+![Retweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FC3lt1cViking)  
+![My Twitter Folowers](https://img.shields.io/twitter/follow/C3lt1cViking?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/C3lt1c-Viking?style=social)  
 
 
